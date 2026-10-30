@@ -115,15 +115,5 @@ Month 3 Bill: 732.5
 Unusual Increase: 126.78 %
 ```
 
-## 7. Conclusion
-
-The Progressive Electricity Billing System calculates electricity bills using multiple consumption slabs, fixed charges, surcharges, and rebates. It also compares monthly bills and identifies unusual increases using Python.
-
-Important Python concepts used:
-
-- `if-elif-else`
-- `for` loop
-- Lists
-- Arithmetic operators
 - Percentage calculation
 - Conditional statements
