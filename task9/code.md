@@ -72,4 +72,3 @@ Largest Expense Contributor: Salary
 Highest Total: 45000
 ```
 
-Result: The Python program successfully calculates branch-wise total and average expenses, category-wise expenditure, and identifies Salary as the largest contributor with ₹45,000.
